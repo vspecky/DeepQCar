@@ -1,0 +1,9 @@
+.vscode
+256Hidden
+Double8s
+LinearTraining
+SingleHidden9
+Snapshots
+TrainingImages
+model.h5
+replay_buffer.pickle
