@@ -1,8 +1,10 @@
-# Self Driving Car Model
+# Self Driving Car Model  
+
 A self driving car model that teaches itself using Double Deep Q Learning.  
 You can download the code and train your own model by tweaking the various constants and hyperparameters in consts_and_hyperparams.py  
 Instructions given below.  
 I'm planning to add a lot more in the future, altho for now, hope ya like this.
+
 ----
 ## Dependencies
 1) Tensorflow: 
